@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 30px;
+  background: #f5f7fa;
+}
+
+h1 {
+  text-align: center;
+}
+
+.kpi-container {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-bottom: 30px;
+}
+
+.kpi {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  width: 150px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.chart-container {
+  width: 70%;
+  margin: auto;
+}
