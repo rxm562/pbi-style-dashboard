@@ -13,7 +13,7 @@ A free, open-source business intelligence dashboard built with HTML, CSS, and Ch
 2. Go to **Settings → Pages**
 3. Select **main branch / root**
 4. Access your dashboard at:
-   https://USERNAME.github.io/REPOSITORY/
+   https://rxm562.github.io/pbi-style-dashboard
 
 ## Data
 Update data via `assets/data/data.json`
