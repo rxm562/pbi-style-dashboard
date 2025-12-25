@@ -1,0 +1,6 @@
+{
+  "total_sales": 125000,
+  "total_users": 430,
+  "months": ["Jan", "Feb", "Mar", "Apr", "May"],
+  "monthly_sales": [20000, 25000, 18000, 30000, 32000]
+}
